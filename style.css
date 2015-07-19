@@ -1,0 +1,22 @@
+.jumbotron {
+	background-color: #3a3a3a;
+	color: white;
+}
+
+.jumbotron h1 {
+	font-weight: 300;
+	text-align: center;
+	font-size: 40px;
+}
+
+.jumbotron img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sponsers img{
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
